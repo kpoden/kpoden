@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Konstantin Podenezhniy! Nice to meet you here!
-- 👀 I’m beginner web developer and designer
+- 👀 I’m beginner web developer and designer. Creating of cool and interesting websites and apps is my hobby and my passion!
 - 🌱 I’m currently learning JS frameworks and PHP. Also i'm improving my design skills and discover new ways of building modern and beautiful websites.
 - 📫 How to reach me:
 -     Email: kpodenejny@gmail.com
