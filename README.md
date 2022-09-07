@@ -2,7 +2,7 @@
 - 👀 I’m beginner web developer and designer. Creating of cool and interesting websites and apps is my hobby and my passion!
 - 🌱 I’m currently learning JS frameworks and PHP. Also i'm improving my design skills and discover new ways of building modern and beautiful websites.
 - 📫 How to reach me:
--     Portfolio: poden.ru
+-     Portfolio: kpoden.github.io
 -     Email: kpodenejny@gmail.com
 -     Phone: 8(961) 793-59-95
 
